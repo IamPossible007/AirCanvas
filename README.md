@@ -1,7 +1,5 @@
 # ✨ Air Canvas - Draw with Hand Gestures
 
-![Air Canvas Demo](https://drive.google.com/file/d/1e7kdHmNYbbsPmOpeiUfem65gdAm-NlfC/view?usp=sharing)
-
 > Draw in the air using just your webcam and hand gestures! Air Canvas uses computer vision to turn your hand movements into digital art.
 
 ## 🚀 Quick Start
@@ -77,4 +75,4 @@ MIT License - feel free to use and modify!
 If you find this project useful, give it a star on GitHub!
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by Harsh Kanani
